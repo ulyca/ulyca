@@ -1,8 +1,8 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Uly Castro](https://www.linkedin.com/in/ulycastro/);
-- 💜 - Atualmente sou Tech Recruiter na [QueryWork](https://www.linkedin.com/company/querywork);
-- 💸 - Constantemente temos vagas! Entra em contato!!
+- 💜 - Atualmente estou como Tech Recruiter na [QueryWork](https://www.linkedin.com/company/querywork);
+- 💸 - Temos vagas tech! Entra em contato!!
 
 
 ##
